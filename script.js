@@ -76,5 +76,3 @@ check.addEventListener("click", Check);
 
 //  WHEN THE PLAYER CLICKES ON CHECK
 again.addEventListener("click", Again);
-
-guess.addEventListener("keyup", Check);
